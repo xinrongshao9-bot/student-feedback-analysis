@@ -1,0 +1,9 @@
+﻿course_id,course_name,status,elapsed_seconds,prompt_tokens,completion_tokens,total_tokens,cost_usd,main_issue_count,strength_count,error
+C02,Mathematics and logic,FORMAT_PASS,2.74,776,219,995,0.0002478,2,1,
+C03,Project management,FORMAT_PASS,2.71,842,206,1048,0.0002499,2,1,
+C04,Consumer behavior,FORMAT_PASS,5.347,773,208,981,0.00024075,1,2,
+C05,Marketing,FORMAT_PASS,2.471,770,194,964,0.0002319,2,1,
+C06,Human resources management,FORMAT_PASS,3.669,764,226,990,0.0002502,1,2,
+C07,Physical education and sports - Athletics,FORMAT_PASS,3.252,792,214,1006,0.0002472,1,2,
+C09,Constitutional law,FORMAT_PASS,2.225,778,160,938,0.0002127,2,0,
+C10,Macroeconomics,FORMAT_PASS,3.343,790,213,1003,0.0002463,3,0,
